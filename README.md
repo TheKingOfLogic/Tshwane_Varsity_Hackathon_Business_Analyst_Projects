@@ -11,6 +11,12 @@ This repository contains business analysis documents for the Discover Tshwane pl
 These documents cover key aspects of business analysis, including identifying gaps, proposing solutions, and designing system activities.  
 
 ## 🛠 Tools & Skills Used  
+
+✅ **Tools:**  
+- Microsoft PowerPoint (for documentation)  
+- Draw.io (for activity diagram design)
+
+📌 **Skills Applied:**  
 - Business Analysis  
 - Gap Analysis  
 - Solution Recommendation  
